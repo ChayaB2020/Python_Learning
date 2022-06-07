@@ -1,0 +1,1 @@
+py -3.9 -m venv ENV39py -3.10 -m venv ENV310.\ENV39\Scripts\activatepython -Vdeactivate.\ENV310\Scripts\activatepython -V
